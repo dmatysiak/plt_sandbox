@@ -1,0 +1,4 @@
+(executable
+ (public_name plt_sandbox)
+ (name main)
+ (libraries plt_sandbox))
